@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/hazimiasad/Documents/Work/etc/backnd/WebApi/wwwroot/assets/index-4sK4E3Wk.css",
+      "PackagePath": "staticwebassets/assets/index-4sK4E3Wk.css"
+    },
+    {
+      "Id": "/Users/hazimiasad/Documents/Work/etc/backnd/WebApi/wwwroot/assets/index-XOk3WnJ8.js",
+      "PackagePath": "staticwebassets/assets/index-XOk3WnJ8.js"
+    },
+    {
+      "Id": "/Users/hazimiasad/Documents/Work/etc/backnd/WebApi/wwwroot/assets/react-h3aPdYU7.svg",
+      "PackagePath": "staticwebassets/assets/react-h3aPdYU7.svg"
+    },
+    {
+      "Id": "/Users/hazimiasad/Documents/Work/etc/backnd/WebApi/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/hazimiasad/Documents/Work/etc/backnd/WebApi/wwwroot/vite.svg",
+      "PackagePath": "staticwebassets/vite.svg"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.WebApi.props",
+      "PackagePath": "build\\WebApi.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\WebApi.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApi.props",
+      "PackagePath": "buildTransitive\\WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
